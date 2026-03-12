@@ -1,13 +1,7 @@
 # Solar Power Generation Forecasting
 ![Actual vs Predicted AC Power](actual_vs_predicted.png)
 ## Overview
-This project develops a **machine learning model to predict AC power output** for solar power plants. As the world transitions toward renewable energy, **accurate solar forecasting** is critical for managing the intermittency of solar generation. Reliable predictions help operators balance electrical loads, reduce mismatches between supply and demand, and improve overall grid efficiency.
-
-
-## Motivation
-Collecting diverse, high-quality solar data is a global challenge due to scattered sources and inconsistent formats. This project demonstrates how to **standardize and manage disparate datasets** to enable effective AI-driven forecasting. As research notes:
-
-> "Without proper data management, analysis and AI integration cannot deliver the desired results."
+This project develops a **machine learning model to predict AC power output** for solar power plants. As the world transitions toward renewable energy, **accurate solar forecasting** is critical for managing the intermittency of solar generation. Reliable predictions help operators balance electrical loads, reduce mismatches between supply and demand, and improve overall grid efficiency. This project demonstrates how to **standardize and manage disparate datasets** to enable effective AI-driven forecasting.
 
 
 
